@@ -1,5 +1,15 @@
-### Hi there 👋
+Hi everyone.
+My name is Ruslan Rzaev. I'm a begginer frontend developer.
 
+Now I am making several websites for friends and their business
+Also websites of educational projects.
+
+I don't have a portfolio, but i have some projects here and in online server.
+Freelance websites
+
+- airpr.ru
+(website about wifi-authorization)
+My first comercial project for my client
 <!--
 **l9llika/l9llika** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -13,4 +23,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+  -->
