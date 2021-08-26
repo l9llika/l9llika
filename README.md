@@ -9,6 +9,12 @@ Also websites of educational projects.
 
 I don't have a portfolio, but i have some projects here and in online server.
 
+## Educational websites
+
+- [Universal magazine](https://airpr.ru/universal/) ( my graduation project on the Web-start course)
+  > _Technologies: HTML\CSS, Javascript, SASS, BEM, Adaptive, Mobile first, Pixel perfect_
+- [Tour-plan](https://airpr.ru/tour-plan/) (my training project on the Web-start course)
+  > _Technologies: HTML\CSS, Javascript, Adaptive, Mobile first, Pixel perfect_
 ## Freelance websites
 
 (this is comercial projects for my clients)
@@ -27,13 +33,6 @@ I don't have a portfolio, but i have some projects here and in online server.
   > now in development,
   > discussing the details of launching for hosting and a domain name  
   > _Technologies: HTML\CSS, Javascript, Adaptive, Mobile first_
-
-## Educational websites
-
-- [Universal magazine](https://airpr.ru/universal/) ( my graduation project on the Web-start course)
-  > _Technologies: HTML\CSS, Javascript, SASS, BEM, Adaptive, Mobile first, Pixel perfect_
-- [Tour-plan](https://airpr.ru/tour-plan/) (my training project on the Web-start course)
-  > _Technologies: HTML\CSS, Javascript, Adaptive, Mobile first, Pixel perfect_
 
 ## My skills
 
