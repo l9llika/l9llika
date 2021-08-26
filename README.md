@@ -1,26 +1,52 @@
-Hi everyone.
-My name is Ruslan Rzaev. I'm a begginer frontend developer.
+# Hi everyone.
 
-Now I am making several websites for friends and their business
+## My name is Ruslan Rzaev.
+
+## I'm a begginer frontend developer.
+
+Now I am making several websites for friends and their business.  
 Also websites of educational projects.
 
 I don't have a portfolio, but i have some projects here and in online server.
-Freelance websites
 
-- airpr.ru
-(website about wifi-authorization)
-My first comercial project for my client
-<!--
-**l9llika/l9llika** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Freelance websites
 
-Here are some ideas to get you started:
+(this is comercial projects for my clients)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-  -->
+- [airpr](http://airpr.ru/) (website about wifi-authorization)
+
+  > completed now. but we want to optimize this website  
+  > _Technologies: HTML\CSS_
+
+- [promobile](https://airpr.ru/promobile/) (mobile phone service center)
+
+  > now in development, the client composes the content of the website  
+  > _Technologies: HTML\CSS, Javascript, SASS, BEM, Adaptive, Mobile first_
+
+- [nalogservice](https://airpr.ru/nalog/) (consulting company)
+  > now in development,
+  > discussing the details of launching for hosting and a domain name  
+  > _Technologies: HTML\CSS, Javascript, Adaptive, Mobile first_
+
+## Educational websites
+
+- [Universal magazine](https://airpr.ru/universal/) ( my graduation project on the Web-start course)
+  > _Technologies: HTML\CSS, Javascript, SASS, BEM, Adaptive, Mobile first, Pixel perfect_
+- [Tour-plan](https://airpr.ru/tour-plan/) (my training project on the Web-start course)
+  > _Technologies: HTML\CSS, Javascript, Adaptive, Mobile first, Pixel perfect_
+
+## My skills
+
+- Web-development
+- Web-design
+- BEM
+- Semantic HTML
+- HTML/CSS
+- SASS
+- Javascript
+- Adaptive
+- Mobile first
+- Pixel perfect
+- Git
+- Figma
+- Photoshop
