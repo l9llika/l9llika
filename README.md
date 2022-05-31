@@ -29,11 +29,6 @@ I don't have a portfolio, but i have some projects here and in online server.
   > now in development, the client composes the content of the website  
   > _Technologies: HTML\CSS, Javascript, SASS, BEM, Adaptive, Mobile first_
 
-- [nalogservice](https://airpr.ru/nalog/) (consulting company)
-  > now in development,
-  > discussing the details of launching for hosting and a domain name  
-  > _Technologies: HTML\CSS, Javascript, Adaptive, Mobile first_
-
 ## My skills
 
 - Web-development
