@@ -2,7 +2,7 @@
 
 ## My name is Ruslan Rzaev.
 
-## I'm a begginer frontend developer.
+## I'm a frontend developer.
 
 Now I am making several websites for friends and their business.  
 Also websites of educational projects.
